@@ -4,5 +4,6 @@
 |业务系统|
 | :------ |
 |[秒杀系统设计](src/main/java/com/xiu/fastsysdesign/speedkillsystem/README.MD)|
+|[混沌工程](src/main/java/com/xiu/fastsysdesign/chaos/README.MD)|
 
 
